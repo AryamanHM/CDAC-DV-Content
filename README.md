@@ -22,12 +22,14 @@ The Data Visualization Module offers a range of functionalities for generating a
 
 ## Made by
 
-ID	Name	Contribution
-240350125014	Avdhesh Goswami	Data Visualization-Analysis and Reporting Theory Notes
-240350125019	Bibhu Mandal	Data Visualization-Analysis and Reporting Theory Notes
-240350125012	Aryaman Mishra	Data Visualization-Analysis and Reporting Lab Exercise
-240350125056	Prathima Tiwari	Data Visualization-Analysis and Reporting Lab Exercise
-240350125029	Vallari Gandhi	Data Visualization-Analysis and Reporting Lab Exercise
+| ID           | Name             | 
+|--------------|------------------|
+| 240350125014 | Avdhesh Goswami  | 
+| 240350125019 | Bibhu Mandal     |
+| 240350125012 | Aryaman Mishra   |
+| 240350125056 | Prathima Tiwari  | 
+| 240350125029 | Vallari Gandhi   | 
+
 
 
 
