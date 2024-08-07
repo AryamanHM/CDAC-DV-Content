@@ -20,4 +20,14 @@ The Data Visualization Module offers a range of functionalities for generating a
 - **Interactive Visualizations**: Create dynamic and interactive charts with hover effects and tooltips.
 - **Export Options**: Save visualizations in various formats including PNG, SVG, and PDF.
 
+## Made by
+
+ID	Name	Contribution
+240350125014	Avdhesh Goswami	Data Visualization-Analysis and Reporting Theory Notes
+240350125019	Bibhu Mandal	Data Visualization-Analysis and Reporting Theory Notes
+240350125012	Aryaman Mishra	Data Visualization-Analysis and Reporting Lab Exercise
+240350125056	Prathima Tiwari	Data Visualization-Analysis and Reporting Lab Exercise
+240350125029	Vallari Gandhi	Data Visualization-Analysis and Reporting Lab Exercise
+
+
 
