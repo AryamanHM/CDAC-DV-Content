@@ -19,11 +19,5 @@ The Data Visualization Module offers a range of functionalities for generating a
 - **Easy Integration**: Seamlessly integrates with popular data libraries such as Pandas and NumPy.
 - **Interactive Visualizations**: Create dynamic and interactive charts with hover effects and tooltips.
 - **Export Options**: Save visualizations in various formats including PNG, SVG, and PDF.
-- **Real-time Data**: Visualize real-time data updates with live charts and graphs.
 
-## Installation
 
-To get started, you need to install the module. You can do this using pip:
-
-```bash
-pip install data-visualization-module
